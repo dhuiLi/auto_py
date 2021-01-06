@@ -1,0 +1,1427 @@
+1606115520326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile4gGZfz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606115523947	Marionette	INFO	Listening on port 1327
+1606115524175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116752050	Marionette	INFO	Stopped listening on port 1327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606115578188	Marionette	INFO	Listening on port 1393
+1606115578702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116753975	Marionette	INFO	Stopped listening on port 1393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606115690706	Marionette	INFO	Listening on port 1473
+1606115691059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116757360	Marionette	INFO	Stopped listening on port 1473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606116068164	Marionette	INFO	Listening on port 6289
+1606116068228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116758252	Marionette	INFO	Stopped listening on port 6289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606116134074	Marionette	INFO	Listening on port 6356
+1606116134130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116758903	Marionette	INFO	Stopped listening on port 6356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606116529828	Marionette	INFO	Listening on port 6657
+1606116530152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116761357	Marionette	INFO	Stopped listening on port 6657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606116617240	Marionette	INFO	Listening on port 6739
+1606116617425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116763013	Marionette	INFO	Stopped listening on port 6739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606116689035	Marionette	INFO	Listening on port 6805
+1606116689063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606116771187	Marionette	INFO	Stopped listening on port 6805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606117155815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilexky6pY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606117159281	Marionette	INFO	Listening on port 7035
+1606117159669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://pos.baidu.com/ncwm?conwid=300&conhei=250&rdid=5824321&dc=3&exps=110261,110252,110011&psi=bbdf03f600aa1ee2c262e5c2e24c4042&di=u5824321&dri=0&dis=0&dai=4&ps=970x1151&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1606122058002&ti=unittest---unittest%E9%94%99%E8%AF%AF%E6%88%AA%E5%9B%BE-%E5%B8%83%E5%B8%83%E6%89%A3-bubuko.com&ari=2&ver=1122&dbv=0&drs=1&pcs=1903x938&pss=1903x6679&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1606122058&prot=2&rw=938&ltu=http%3A%2F%2Fwww.bubuko.com%2Finfodetail-3364170.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCdqQy2xCGltb_z_W-E7qU_Zv-GCjzKeIQU8bCf6Gw6Y4GHjZV2rldBl0ZTIvr8zcG0rD-5pCLJzFrOknOMhIJa%26wd%3D%26eqid%3Da19c8aec0000fa50000000065fbb7a0b&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCdqQy2xCGltb_z_W-E7qU_Zv-GCjzKeIQU8bCf6Gw6Y4GHjZV2rldBl0ZTIvr8zcG0rD-5pCLJzFrOknOMhIJa%26wd%3D%26eqid%3Da19c8aec0000fa50000000065fbb7a0b&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1606122058&qn=a22d5df3a9de5bc0&tt=1606122057995.19.259.260, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ncwm?conwid=300&conhei=250&rdid=5824321&dc=3&exps=110261,110252,110011&psi=bbdf03f600aa1ee2c262e5c2e24c4042&di=u5824321&dri=0&dis=0&dai=4&ps=970x1151&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1606122058002&ti=unittest---unittest%E9%94%99%E8%AF%AF%E6%88%AA%E5%9B%BE-%E5%B8%83%E5%B8%83%E6%89%A3-bubuko.com&ari=2&ver=1122&dbv=0&drs=1&pcs=1903x938&pss=1903x6679&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1606122058&prot=2&rw=938&ltu=http%3A%2F%2Fwww.bubuko.com%2Finfodetail-3364170.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCdqQy2xCGltb_z_W-E7qU_Zv-GCjzKeIQU8bCf6Gw6Y4GHjZV2rldBl0ZTIvr8zcG0rD-5pCLJzFrOknOMhIJa%26wd%3D%26eqid%3Da19c8aec0000fa50000000065fbb7a0b&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCdqQy2xCGltb_z_W-E7qU_Zv-GCjzKeIQU8bCf6Gw6Y4GHjZV2rldBl0ZTIvr8zcG0rD-5pCLJzFrOknOMhIJa%26wd%3D%26eqid%3Da19c8aec0000fa50000000065fbb7a0b&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1606122058&qn=a22d5df3a9de5bc0&tt=1606122057995.19.259.260, line 137: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://common.cnblogs.com/scripts/jquery-2.2.0.min.js line 2 > eval, line 55: TypeError: r is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://pos.baidu.com/kcqm?conwid=260&conhei=260&rdid=6220439&dc=3&exps=110261,110252,110011&psi=de30c85ec13a336df19e68412378f400&di=u6220439&dri=0&dis=0&dai=1&ps=324x1151&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1606126329769&ti=%E5%B0%8F%E8%BF%B7%E7%B3%8A%E4%BB%99%20-%20%E7%AE%80%E4%B9%A6&ari=2&ver=1122&dbv=0&drs=3&pcs=1903x938&pss=1903x1651&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1606126329&prot=2&rw=938&ltu=https%3A%2F%2Fwww.jianshu.com%2Fu%2F155ae3a31740&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1606126330&qn=5c385d809f14a484&tt=1606126329759.14.194.195, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/kcqm?conwid=260&conhei=260&rdid=6220439&dc=3&exps=110261,110252,110011&psi=de30c85ec13a336df19e68412378f400&di=u6220439&dri=0&dis=0&dai=1&ps=324x1151&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1606126329769&ti=%E5%B0%8F%E8%BF%B7%E7%B3%8A%E4%BB%99%20-%20%E7%AE%80%E4%B9%A6&ari=2&ver=1122&dbv=0&drs=3&pcs=1903x938&pss=1903x1651&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1606126329&prot=2&rw=938&ltu=https%3A%2F%2Fwww.jianshu.com%2Fu%2F155ae3a31740&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1606126330&qn=5c385d809f14a484&tt=1606126329759.14.194.195, line 137: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20201112/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 2: Script terminated by timeout at:
+e@https://g.alicdn.com/AWSC/uab/1.137.1/collina.js:2:30
+
+JavaScript warning: https://h5cdn.emkol.cn/publib/lib/loginy.js, line 91: unreachable code after return statement
+JavaScript warning: https://h5cdn.emkol.cn/publib/lib/chart/Charty.js, line 87: unreachable code after return statement
+JavaScript warning: https://h5cdn.emkol.cn/publib/lib/chart/Charty.js, line 91: unreachable code after return statement
+1606289828780	Marionette	INFO	Stopped listening on port 7035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+os.min.js, line 16: Error: Request failed with status code 401
+1606123023136	Marionette	INFO	Stopped listening on port 9845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606123122444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilevfpqOq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606123125723	Marionette	INFO	Listening on port 9926
+1606123125808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606123140165	Marionette	INFO	Stopped listening on port 9926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606125908414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile3ocGw8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125912051	Marionette	INFO	Listening on port 11355
+1606125912284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606125925909	Marionette	INFO	Stopped listening on port 11355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606208711716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofiler8yA4W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606208715404	Marionette	INFO	Listening on port 10464
+1606208715585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@yhs/basedata_yhs/dist/app.bundle.js, line 2281: TypeError: error is null
+JavaScript error: http://172.16.20.52:9001/output/@nvwa/organization-app/dist/app.bundle.js, line 48: TypeError: t is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.16.20.52:9001"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 61ms)
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:155:21\n_getText@resource://devtools/server/actors/stylesheets.js:499:12\ngetText@resource://devtools/server/actors/stylesheets.js:482:17\ngetText@resource://devtools/server/actors/stylesheets.js:950:18\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:155:21\n_getText@resource://devtools/server/actors/stylesheets.js:499:12\ngetText@resource://devtools/server/actors/stylesheets.js:482:17\ngetText@resource://devtools/server/actors/stylesheets.js:950:18\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+d: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileL6WTOe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606299186945	Marionette	INFO	Listening on port 6599
+1606299187352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1606299205405	Marionette	INFO	Stopped listening on port 6599
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606379360135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileOL2t25"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606379363836	Marionette	INFO	Listening on port 12610
+1606379363988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606379385235	Marionette	INFO	Stopped listening on port 12610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606381502829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile16UJPc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606381506654	Marionette	INFO	Listening on port 1913
+1606381506687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1606381509303	Marionette	INFO	Stopped listening on port 1913
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606381550274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile6FvbOs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606381553721	Marionette	INFO	Listening on port 2041
+1606381554123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606381577043	Marionette	INFO	Stopped listening on port 2041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606383274648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile39yfjx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383278322	Marionette	INFO	Listening on port 5768
+1606383278504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606383298695	Marionette	INFO	Stopped listening on port 5768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606383383948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile344POt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383387619	Marionette	INFO	Listening on port 5940
+1606383387806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+[Parent 1552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1606383416392	Marionette	INFO	Stopped listening on port 5940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606383495228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileIR122y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383498714	Marionette	INFO	Listening on port 6120
+1606383499082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606383506418	Marionette	INFO	Stopped listening on port 6120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606383563291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileq0cOj1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383567060	Marionette	INFO	Listening on port 6448
+1606383567141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606385479275	Marionette	INFO	Stopped listening on port 6448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383729428	Marionette	INFO	Listening on port 6744
+1606383729793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606384105918	Marionette	INFO	Stopped listening on port 6744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606383870037	Marionette	INFO	Listening on port 7003
+1606383870448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606384107263	Marionette	INFO	Stopped listening on port 7003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606384194888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileSCLYRE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606384199074	Marionette	INFO	Listening on port 7590
+1606384199245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606384465290	Marionette	INFO	Stopped listening on port 7590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606384475300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilerFt93K"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606384479182	Marionette	INFO	Listening on port 8052
+1606384479668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606385475844	Marionette	INFO	Stopped listening on port 8052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606385206005	Marionette	INFO	Listening on port 9401
+1606385206336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606385476213	Marionette	INFO	Stopped listening on port 9401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606385397660	Marionette	INFO	Listening on port 9735
+1606385398057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606385480168	Marionette	INFO	Stopped listening on port 9735
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606385437012	Marionette	INFO	Listening on port 9855
+1606385437528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606385460614	Marionette	INFO	Stopped listening on port 9855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606386164614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileMurUmb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606386167982	Marionette	INFO	Listening on port 11055
+1606386168464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://172.16.20.52:9001"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child2/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:274:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:154:37\ndestroy@resource://devtools/shared/protocJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+ools/shared/protocol/Front.js", 98))
+ror: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606386495341	Marionette	INFO	Listening on port 11654
+1606386495803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606387058147	Marionette	INFO	Stopped listening on port 11654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606442505526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilezP1RY1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606442509385	Marionette	INFO	Listening on port 2153
+1606442509440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1606442693999	Marionette	INFO	Stopped listening on port 2153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606443002346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilemA9Kpl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606443005597	Marionette	INFO	Listening on port 2758
+1606443005700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606443027268	Marionette	INFO	Stopped listening on port 2758
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606443077465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileSxLP4G"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606443080745	Marionette	INFO	Listening on port 2881
+1606443080810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1606718769623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileotgCD2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606718773133	Marionette	INFO	Listening on port 10289
+1606718773537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606718802110	Marionette	INFO	Stopped listening on port 10289
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606719220551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile5rqaKH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606719224150	Marionette	INFO	Listening on port 10461
+1606719224406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606719252163	Marionette	INFO	Stopped listening on port 10461
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606719395514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile23Mmro"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606719398966	Marionette	INFO	Listening on port 10611
+1606719399364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606719430679	Marionette	INFO	Stopped listening on port 10611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606719468210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileAHt4Sy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606719471906	Marionette	INFO	Listening on port 10752
+1606719472065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+1606792339633	Marionette	INFO	Stopped listening on port 10752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+719655148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606719686135	Marionette	INFO	Stopped listening on port 10995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606720728643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileCePy0D"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606720732397	Marionette	INFO	Listening on port 12567
+1606720732499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606720766484	Marionette	INFO	Stopped listening on port 12567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606721561576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile3OICy4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606721565403	Marionette	INFO	Listening on port 13603
+1606721565430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606721565813	Marionette	INFO	Stopped listening on port 13603
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606721587972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileVgd6gM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606721591613	Marionette	INFO	Listening on port 13665
+1606721591820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606721620853	Marionette	INFO	Stopped listening on port 13665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606724934595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileQpGXn1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606724938307	Marionette	INFO	Listening on port 4432
+1606724938457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606724967566	Marionette	INFO	Stopped listening on port 4432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606725170421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilehuuU1m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606725174375	Marionette	INFO	Listening on port 4859
+1606725174777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606725203266	Marionette	INFO	Stopped listening on port 4859
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606791443911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile8kdOqk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606791448360	Marionette	INFO	Listening on port 9160
+1606791448883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606791475813	Marionette	INFO	Stopped listening on port 9160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606791687438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilePY9ZIG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606791691876	Marionette	INFO	Listening on port 9659
+1606791691990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606791753085	Marionette	INFO	Stopped listening on port 9659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606791777072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilekdRikf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606791780989	Marionette	INFO	Listening on port 9904
+1606791781425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1606791823506	Marionette	INFO	Stopped listening on port 9904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792203991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile390yzc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792208140	Marionette	INFO	Listening on port 11072
+1606792208359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606792223003	Marionette	INFO	Stopped listening on port 11072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792255406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileYGckQ5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792259434	Marionette	INFO	Listening on port 11210
+1606792259769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606792281580	Marionette	INFO	Stopped listening on port 11210
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792456682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile14HbK6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792460681	Marionette	INFO	Listening on port 11560
+1606792461049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606792482700	Marionette	INFO	Stopped listening on port 11560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792504141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofiles834g6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792508501	Marionette	INFO	Listening on port 11725
+1606792508603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606792530153	Marionette	INFO	Stopped listening on port 11725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792542598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileQuvGTY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792546481	Marionette	INFO	Listening on port 11891
+1606792546953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606792561145	Marionette	INFO	Stopped listening on port 11891
+1606792578809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilevbyE2v"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792582679	Marionette	INFO	Listening on port 12091
+1606792583163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606792604753	Marionette	INFO	Stopped listening on port 12091
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792687284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileeV0Kl7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792691079	Marionette	INFO	Listening on port 12431
+1606792691135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606792714945	Marionette	INFO	Stopped listening on port 12431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606792929221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilexdYSg8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606792933363	Marionette	INFO	Listening on port 13105
+1606792933586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606792941655	Marionette	INFO	Stopped listening on port 13105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606793059789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileu4vmYJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606793063643	Marionette	INFO	Listening on port 13358
+1606793064144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606793093758	Marionette	INFO	Stopped listening on port 13358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606795042410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile64fHWT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606795046314	Marionette	INFO	Listening on port 2901
+1606795046775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606795072796	Marionette	INFO	Stopped listening on port 2901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606795272580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileJkyiSa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606795276424	Marionette	INFO	Listening on port 3302
+1606795276935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606795300161	Marionette	INFO	Stopped listening on port 3302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606806547508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileDE96yk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606806551487	Marionette	INFO	Listening on port 8403
+1606806551858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606806570781	Marionette	INFO	Stopped listening on port 8403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606806705354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileBI2Bg0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606806709267	Marionette	INFO	Listening on port 8723
+1606806709706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9001/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606806727833	Marionette	INFO	Stopped listening on port 8723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606810947108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilevAlebC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606810950811	Marionette	INFO	Listening on port 3175
+1606810950963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606810968865	Marionette	INFO	Stopped listening on port 3175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606816074882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile0jc5lD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606816078693	Marionette	INFO	Listening on port 14763
+1606816078740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606816090686	Marionette	INFO	Stopped listening on port 14763
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606816137142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileldM2HM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606816140921	Marionette	INFO	Listening on port 14943
+1606816141002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606816161312	Marionette	INFO	Stopped listening on port 14943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606817603887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileRa4C4x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606817607872	Marionette	INFO	Listening on port 3936
+1606817608248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606817615565	Marionette	INFO	Stopped listening on port 3936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606817663555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilekpD8cW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606817667225	Marionette	INFO	Listening on port 4076
+1606817667437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606817673951	Marionette	INFO	Stopped listening on port 4076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606817703848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileSFdJL8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606817707684	Marionette	INFO	Listening on port 4214
+1606817707716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606818216426	Marionette	INFO	Stopped listening on port 4214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606817874565	Marionette	INFO	Listening on port 4504
+1606817874947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606818006917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606818086752	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606818104963	Marionette	INFO	Stopped listening on port 4504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606818110136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileznD5Cl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606818114171	Marionette	INFO	Listening on port 4934
+1606818114491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606874097763	Marionette	INFO	Stopped listening on port 4934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606818212233	Marionette	INFO	Listening on port 5137
+1606818212453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: http://172.16.20.52:9002/output/@yhs/basedata_yhs/dist/app.bundle.js, line 31473: ReferenceError: defineName is not defined
+JavaScript error: http://172.16.20.52:9002/output/@yhs/basedata_yhs/dist/app.bundle.js, line 31473: ReferenceError: defineName is not defined
+1606818886964	Marionette	INFO	Stopped listening on port 5137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606818297438	Marionette	INFO	Listening on port 5331
+1606818297876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606818884455	Marionette	INFO	Stopped listening on port 5331
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileFiCR4T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606818404569	Marionette	INFO	Listening on port 5546
+1606818404609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606818885373	Marionette	INFO	Stopped listening on port 5546
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606878266791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileESfMUy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606878270694	Marionette	INFO	Listening on port 4878
+1606878271145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: chrome://marionette/content/proxy.js, line 283: NS_ERROR_NOT_INITIALIZED
+1606878284838	Marionette	INFO	Stopped listening on port 4878
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606879482209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileIJ1tkn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606879486166	Marionette	INFO	Listening on port 6264
+1606879486571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606879549778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilea4ASsn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606879553592	Marionette	INFO	Listening on port 6380
+1606879553638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606895762943	Marionette	INFO	Stopped listening on port 6380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606879652993	Marionette	INFO	Listening on port 6520
+1606879653109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1606895763453	Marionette	INFO	Stopped listening on port 6520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+7	Marionette	INFO	Listening on port 6617
+1606879733343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+[Parent 16140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 16140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 16140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1606895764266	Marionette	INFO	Stopped listening on port 6617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606895766017	Marionette	INFO	Stopped listening on port 6738
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofile3NM9oQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606880456020	Marionette	INFO	Listening on port 7819
+1606880456376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: chrome://marionette/content/proxy.js, line 283: NS_ERROR_NOT_INITIALIZED
+1606880470278	Marionette	INFO	Stopped listening on port 7819
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606902310062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileCeZCK7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606902314379	Marionette	INFO	Listening on port 13496
+1606902314432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606902335755	Marionette	INFO	Stopped listening on port 13496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606902340311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileoe0eM1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606902344227	Marionette	INFO	Listening on port 13595
+1606902344673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606902357706	Marionette	INFO	Stopped listening on port 13595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606902362372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileQwu5l7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606902366954	Marionette	INFO	Listening on port 13709
+1606902367341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: http://172.16.20.52:9002/output/@yhs/basedata_yhs/dist/app.bundle.js, line 31516: ReferenceError: defineName is not defined
+1606902384735	Marionette	INFO	Stopped listening on port 13709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606902389278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofileESpwm6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606902393643	Marionette	INFO	Listening on port 13910
+1606902393739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+JavaScript error: http://172.16.20.52:9002/output/@yhs/basedata_yhs/dist/app.bundle.js, line 31516: ReferenceError: defineName is not defined
+JavaScript error: http://172.16.20.52:9002/output/@yhs/basedata_yhs/dist/app.bundle.js, line 19621: TypeError: _this3.$refs.selectTree is undefined
+1606902410248	Marionette	INFO	Stopped listening on port 13910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606903032322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilektXXU4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606903036508	Marionette	INFO	Listening on port 1769
+1606903036681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
+1606903061090	Marionette	INFO	Stopped listening on port 1769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606903065665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ls\\AppData\\Local\\Temp\\rust_mozprofilezb1GgL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606903069935	Marionette	INFO	Listening on port 1883
+1606903070025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://172.16.20.52:9002/static/lib/nr.os.min.js, line 16: Error: Request failed with status code 401
